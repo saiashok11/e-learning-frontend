@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-window.apiurl = "http://localhost/e-learning-platform/api/";
+window.apiurl = "http://13.91.47.136";
 
 ReactDOM.render(
   <React.StrictMode>
